@@ -6,13 +6,6 @@ When I got into designing the icon, it’s hard to check whether the design does
 
 Thus, I decided to make icon image searcher with sketch image as input and original icon image as output.
 
-![input example](Icon%20Search%20by%20Sketch%20f161b1da67684e74be9b139b86b3aec6/Untitled.png)
-
-input example
-
-![expected outcome](Icon%20Search%20by%20Sketch%20f161b1da67684e74be9b139b86b3aec6/Untitled%201.png)
-
-expected outcome
 
 ### Method
 
